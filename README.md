@@ -8,9 +8,9 @@ Además, la ejecutación de nuestro programa debe ser con permisos de administra
 
 # Comienza
 
-#apt-get install git
-#git clone https://github.com/W0lfAdri/MySuite
-#cd MySuite
-#sh mysuite.sh
+#apt-get install git         <br/> 
+#git clone https://github.com/W0lfAdri/MySuite                      
+#cd MySuite                                     <br/> 
+#sh mysuite.sh                                        <br/>  
 
 Contacto: freeadri@autistici.org 
