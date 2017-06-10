@@ -1,2 +1,2 @@
 echo [!]Vamos a proceder a abrir ettercap...
-ettercap --gtk
+ettercap --gtk >/dev/null 2>&1
