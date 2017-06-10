@@ -33,7 +33,7 @@ clear
 
 for i in $( ls ); do
 echo 
-echo ***************************
+echo /*************************/
 echo **Un proyecto de W0lfAdri**
 echo ********Versión 2.0********
 echo 
