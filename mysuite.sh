@@ -33,9 +33,9 @@ clear
 
 for i in $( ls ); do
 echo 
-echo /*************************/
-echo **Un proyecto de W0lfAdri**
-echo ********Versión 2.0********
+echo :::::::::::::::::::::::::::
+echo ::Un proyecto de W0lfAdri::
+echo ::::::::Versión 2.0::::::::
 echo 
 herramienta=$(zenity --entry --title "Escoja herramienta:" --text "Escriba lo que quiera usar \n *)  nmap \n *)  golismero \n *) sqlmap \n *) hashid \n *) netdiscover \n *) ettercap") >/dev/null 2>&1
 sh $herramienta.sh
